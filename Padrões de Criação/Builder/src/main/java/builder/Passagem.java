@@ -44,6 +44,7 @@ public class Passagem {
     public void setCodigo(int codigo) {
         this.codigo = codigo;
     }
+    
 
     public Date getDataVoo() {
         return dataVoo;
