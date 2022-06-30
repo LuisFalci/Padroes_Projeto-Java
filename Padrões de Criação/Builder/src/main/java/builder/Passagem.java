@@ -75,6 +75,7 @@ public class Passagem {
     public String getClasse() {
         return classe;
     }
+    
 
     public void setClasse(String classe) {
         this.classe = classe;
