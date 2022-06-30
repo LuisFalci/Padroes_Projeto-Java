@@ -83,4 +83,5 @@ public class Passagem {
     public void setValidacao(boolean validacao) {
         this.validacao = validacao;
     }
+    
 }
