@@ -14,6 +14,7 @@ public class Passagem {
     private String horaChegada;
     private String classe;
     private boolean validacao;
+    
 
     public Passagem() {
 
