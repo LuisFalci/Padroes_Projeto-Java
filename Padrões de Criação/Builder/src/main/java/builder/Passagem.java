@@ -51,6 +51,7 @@ public class Passagem {
     public void setDataVoo(Date dataVoo) {
         this.dataVoo = dataVoo;
     }
+    
 
     public String getHoraChegada() {
         return horaChegada;
