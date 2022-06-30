@@ -19,6 +19,7 @@ public class Passagem {
 
     }
 
+    
     public String getCidadeSaida() {
         return cidadeSaida;
     }
