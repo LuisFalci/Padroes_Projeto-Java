@@ -11,7 +11,6 @@ public class Atendimento {
     public TipoAtendimento getTipoAtendimento() {
         return tipoAtendimento;
     }
-    
 
     public void setTipoAtendimento(TipoAtendimento tipoAtendimento) {
         this.tipoAtendimento = tipoAtendimento;
