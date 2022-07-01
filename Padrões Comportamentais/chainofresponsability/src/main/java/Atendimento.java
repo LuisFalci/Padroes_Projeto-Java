@@ -2,6 +2,7 @@ public class Atendimento {
 
     private TipoAtendimento tipoAtendimento;
 
+    
     public Atendimento(TipoAtendimento tipoAtendimento) {
         this.tipoAtendimento = tipoAtendimento;
     }
