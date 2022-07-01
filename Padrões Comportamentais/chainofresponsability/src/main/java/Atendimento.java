@@ -7,6 +7,7 @@ public class Atendimento {
         this.tipoAtendimento = tipoAtendimento;
     }
 
+    
     public TipoAtendimento getTipoAtendimento() {
         return tipoAtendimento;
     }
