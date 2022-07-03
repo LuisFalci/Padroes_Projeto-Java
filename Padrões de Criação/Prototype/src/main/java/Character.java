@@ -12,6 +12,7 @@ public class Character implements Cloneable {
         this.skin = skin;
         this.age = age;
         this.height = height;
+        
         this.weight = weight;
     }
 
