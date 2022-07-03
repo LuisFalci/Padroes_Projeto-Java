@@ -7,6 +7,7 @@ public class Character implements Cloneable {
     private double weight;
     
     
+    
 
     
     public Character(String body, Hat hat, String skin, int age, double height, double weight){
