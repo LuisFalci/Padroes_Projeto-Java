@@ -16,6 +16,7 @@ class AtendimentoTest {
         enfermeiro = new FuncionarioEnfermeiro(medicoResidente);
         recepcionista = new FuncionarioRecepcionista(enfermeiro);
     }
+    
 
     @Test
     void deveRetornarAtendimentoDaRecepcionista() {
