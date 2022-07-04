@@ -17,15 +17,6 @@ class AtendimentoTest {
         recepcionista = new FuncionarioRecepcionista(enfermeiro);
     }
     
-    
-    
-    
-    
-    
-    
-    
-
-    
     @Test
     void deveRetornarAtendimentoDaRecepcionista() {
         assertEquals("Recepcionista", recepcionista.efetuarAtendimento(new Atendimento(TipoAtendimentoFicha.getTipoAtendimentoFicha())));
