@@ -21,6 +21,7 @@ class AtendimentoTest {
     
     
 
+    
     @Test
     void deveRetornarAtendimentoDaRecepcionista() {
         assertEquals("Recepcionista", recepcionista.efetuarAtendimento(new Atendimento(TipoAtendimentoFicha.getTipoAtendimentoFicha())));
