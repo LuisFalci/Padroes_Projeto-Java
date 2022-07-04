@@ -18,6 +18,7 @@ class AtendimentoTest {
     }
     
     
+    
 
     @Test
     void deveRetornarAtendimentoDaRecepcionista() {
